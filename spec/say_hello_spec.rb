@@ -12,4 +12,3 @@ describe "say_hello" do
     say_hello()
   end
 end
-© 2020 GitHub, Inc.
